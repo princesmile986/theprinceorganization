@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://princesmile986.github.io/theprinceorganization/sitemap.xml
