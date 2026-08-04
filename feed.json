@@ -1,11 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "The Prince Organization",
+    "title": "پرنس نیوز",
     "description": "",
     "home_page_url": "https://princesmile986.github.io/theprinceorganization",
     "feed_url": "https://princesmile986.github.io/theprinceorganization/feed.json",
     "user_comment": "",
-    "icon": "https://princesmile986.github.io/theprinceorganization/media/website/m-2-01-2.png",
+    "icon": "https://princesmile986.github.io/theprinceorganization/media/website/banner.png",
     "author": {
         "name": "Prince"
     },
